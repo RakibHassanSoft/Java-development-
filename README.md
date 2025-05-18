@@ -1,4 +1,4 @@
-# J✅ ava সংক্ষিপ্ত পরিচিতি (Java Introduction in Bangla)
+# ✅Java সংক্ষিপ্ত পরিচিতি (Java Introduction in Bangla)
 
 ## ভূমিকা
 Java একটি উচ্চ-স্তরের, অবজেক্ট ওরিয়েন্টেড, এবং প্ল্যাটফর্ম স্বাধীন প্রোগ্রামিং ভাষা।
