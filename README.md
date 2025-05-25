@@ -1,4 +1,5 @@
-<img src="https://braceinfotech.com/assets/uploads/knowledge/java.jpg" alt="Java" width="500"/>
+<img src="https://braceinfotech.com/assets/uploads/knowledge/java.jpg" alt="Java" style="width:100%; height:auto;" />
+****
 
 # ✅Java সংক্ষিপ্ত পরিচিতি (Java Introduction in Bangla)
 
